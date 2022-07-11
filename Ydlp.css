@@ -4,4 +4,13 @@
     --black3: rgb(30, 30, 30);
     --black4: rgb(45, 45, 45);
     --black5: rgb(60, 60, 60);
+    --white: rgb(255, 255, 255);
+}
+/* ---- backgrounds --- */
+.bg-black{
+    background-color: var(--black)
+}
+/* ---- colors ---- */
+.white{
+    color: var(--white)
 }
